@@ -3,7 +3,7 @@ class ProblemA {
     fun main() {
 
         //ваша реализация в методе main
-        var t: Int;
+        val t: Int;
         var a: Long;
         var b: Long;
         var c: Long;

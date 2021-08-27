@@ -3,8 +3,8 @@ class ProblemC {
     fun main() {
 
         //ваша реализация в методе main
-        var n: Int = readInt();
-        var skills = readIntArray(n);
+        val n: Int = readInt();
+        val skills = readIntArray(n);
 
         skills.sort();
         var i = 1;
